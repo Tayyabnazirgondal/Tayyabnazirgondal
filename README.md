@@ -18,10 +18,15 @@
 </p>
 
 </div>
-## 📈 Contribution Graph
+## 📊 Developer Metrics
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Tayyabnazirgondal&theme=tokyo-night&hide_border=true" width="100%" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Tayyabnazirgondal&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
+  <img width="49%" src="https://github-readme-streak-stats-eight.vercel.app/?user=Tayyabnazirgondal&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img width="55%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tayyabnazirgondal&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 ## 🏆 GitHub Trophies
 
