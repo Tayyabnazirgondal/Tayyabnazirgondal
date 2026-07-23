@@ -74,7 +74,8 @@ Thanks for visiting my profile!
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Tayyabnazirgondal&show_icons=true&theme=tokyonight" height="170"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Tayyabnazirgondal&theme=tokyonight" height="170"/>
+  <img src="https://streak-stats.demolab.com?user=Tayyabnazirgondal&theme=tokyonight"
+    height="170"/>
 </p>
 
 <p align="center">
