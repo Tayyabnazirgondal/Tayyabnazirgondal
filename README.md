@@ -46,6 +46,5 @@ An investment tracking application that allows users to monitor portfolios, anal
 ## Contact
 
 📧 Email: gondalt224@gmail.com
-Facebook: https://www.facebook.com/share/1JBSerYpRT/
 
 Thanks for visiting my profile!
