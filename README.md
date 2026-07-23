@@ -27,17 +27,10 @@ I build AI Agents, Business Automation Systems, Flutter Applications, APIs, and 
 
 
 ## 💻 Tech Stack
-- Python
-- Flutter
-- Dart
-- JavaScript
-- Node.js
-- Firebase
-- Git & GitHub
-- REST APIs
-- OpenAI APIs
-- AI Agents
-- Workflow Automation
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=flutter,dart,python,firebase,nodejs,js,html,css,git,github,vscode&perline=6" />
+</p>
 
 ## Featured Projects
 ## 1.Student Wallet
