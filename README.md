@@ -1,16 +1,51 @@
-## Hi there 👋
+Hi I'm Tayyab Nazir
 
-<!--
-**Tayyabnazirgondal/Tayyabnazirgondal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+AI Automation Engineer | Flutter Developer | Python Developer
 
-Here are some ideas to get you started:
+I build AI Agents, Business Automation Systems, Flutter Applications, APIs, and Intelligent Software Solutions that help businesses automate workflows and increase productivity.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+## 💻 Tech Stack
+- Python
+- Flutter
+- Dart
+- JavaScript
+- Node.js
+- Firebase
+- Git & GitHub
+- REST APIs
+- OpenAI APIs
+- AI Agents
+- Workflow Automation
+
+## Featured Projects
+## 1.Student Wallet
+A smart student finance management application that helps students manage expenses, track transactions, and organize their financial activities.
+
+### 2.Rickshaw Wala
+A ride-booking application designed to connect passengers with local rickshaw drivers through a simple and user-friendly interface.
+
+### 3.Invest Tracker
+An investment tracking application that allows users to monitor portfolios, analyze performance, and keep track of financial goals.
+
+##  Currently Working On
+
+- AI Agents
+- Business Automation
+- Flutter Applications
+- AI SaaS Products
+
+## Currently Learning
+
+- Advanced AI Agents
+- LangGraph
+- MCP
+- Vector Databases
+- Multi-Agent Systems
+
+## Contact
+
+📧 Email: gondalt224@gmail.com
+Facebook: https://www.facebook.com/share/1JBSerYpRT/
+
+Thanks for visiting my profile!
