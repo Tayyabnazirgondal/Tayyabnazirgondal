@@ -1,11 +1,23 @@
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=28&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=900&lines=AI+Automation+Engineer;Flutter+Developer;Python+Developer;Building+AI+Agents;Founder+of+Daynix+Studio" />
-</p>
-<h1 align="center">Hi 👋, I'm Tayyab Nazir</h1>
+<div align="center">
 
-<h3 align="center">
-AI Automation Engineer • Flutter Developer • Python Developer
-</h3>
+# 🚀 Tayyab Nazir
+
+### Founder & CEO • Daynix Studio
+
+### AI Automation Engineer | AI Agents Developer | Flutter Developer | Python Developer | Full-Stack Developer
+
+<p><i>Building AI-Powered Software, Intelligent Automation & Scalable Digital Solutions.</i></p>
+
+<p>
+  <img src="https://img.shields.io/badge/Founder-Daynix%20Studio-0A66C2?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/AI%20Automation-00C2FF?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/AI%20Agents-8A2BE2?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Full--Stack-24292F?style=for-the-badge" />
+</p>
+
+</div>
 
 Hi I'm Tayyab Nazir
 
