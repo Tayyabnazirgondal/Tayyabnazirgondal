@@ -48,3 +48,14 @@ An investment tracking application that allows users to monitor portfolios, anal
 📧 Email: gondalt224@gmail.com
 
 Thanks for visiting my profile!
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Tayyabnazirgondal&show_icons=true&theme=tokyonight" height="170"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Tayyabnazirgondal&theme=tokyonight" height="170"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tayyabnazirgondal&layout=compact&theme=tokyonight"/>
+</p>
