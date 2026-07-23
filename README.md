@@ -12,7 +12,7 @@
 
 <div align="center">
 
-# 🚀 Tayyab Nazir
+# Tayyab Nazir
 
 ### Founder & CEO • Daynix Studio
 
@@ -26,7 +26,7 @@
 
 <div align="center">
 
-> ### 💡 Building AI Powered Businesses Through Automation & Modern Software
+> ### Building AI Powered Businesses Through Automation & Modern Software
 
 </div>
 
@@ -61,7 +61,7 @@ Goal:
 
 ---
 
-# ⚡ Professional Skills
+# Professional Skills
 
 <p align="center">
 
@@ -71,7 +71,7 @@ Goal:
 
 ---
 
-# 🧠 Core Expertise
+# Core Expertise
 
 | Expertise | Level |
 |-----------|-------|
@@ -109,7 +109,7 @@ Goal:
 ✅ Custom Software Solutions
 
 ---
-# 🚀 Featured Projects
+# Featured Projects
 
 <table>
 <tr>
@@ -119,7 +119,7 @@ Goal:
 
 Smart Flutter application for students to manage expenses, budgets, and financial records.
 
-**✨ Features**
+**Features**
 
 - Expense Tracking
 - Budget Management
@@ -135,11 +135,11 @@ Smart Flutter application for students to manage expenses, budgets, and financia
 
 <td width="50%">
 
-## 🛺 Rickshaw Wala
+## Rickshaw Wala
 
 Ride booking platform connecting passengers with local rickshaw drivers.
 
-**✨ Features**
+** Features**
 
 - Book Ride
 - Driver Panel
@@ -147,7 +147,7 @@ Ride booking platform connecting passengers with local rickshaw drivers.
 - Live Location
 - Firebase Backend
 
-**🛠️ Tech**
+** Tech**
 
 `Flutter` `Firebase`
 
@@ -161,7 +161,7 @@ Ride booking platform connecting passengers with local rickshaw drivers.
 
 Investment portfolio tracking application.
 
-**✨ Features**
+** Features**
 
 - Portfolio Tracking
 - Profit/Loss
@@ -176,7 +176,7 @@ Investment portfolio tracking application.
 
 <td width="50%">
 
-## 🤖 AI Automation Solutions
+##  AI Automation Solutions
 
 Business automation using AI Agents, APIs and Workflow Automation.
 
@@ -209,7 +209,7 @@ Business automation using AI Agents, APIs and Workflow Automation.
 
 ---
 
-# 🏆 GitHub Achievements
+# GitHub Achievements
 
 <div align="center">
 
@@ -219,7 +219,7 @@ Business automation using AI Agents, APIs and Workflow Automation.
 
 ---
 
-# 🌍 Connect With Me
+# Connect With Me
 
 <div align="center">
 
@@ -238,7 +238,7 @@ Business automation using AI Agents, APIs and Workflow Automation.
 </div>
 
 ---
-# 🚀 Current Focus
+#  Current Focus
 
 <div align="center">
 
@@ -253,20 +253,20 @@ Business automation using AI Agents, APIs and Workflow Automation.
 
 ---
 
-# 🎯 2026 Goals
+#  2026 Goals
 
-- ✅ Launch AI Automation Agency
-- 🚀 Build Production Ready AI Agents
-- 📱 Publish Multiple Flutter Apps
-- 🌍 Work with International Clients
-- 💼 Grow Daynix Studio Globally
-- 🤖 Build AI SaaS Products
-- 📈 Reach 1000+ GitHub Contributions
-- ⭐ Contribute to Open Source Projects
+- Launch AI Automation Agency
+- Build Production Ready AI Agents
+- Publish Multiple Flutter Apps
+- Work with International Clients
+- Grow Daynix Studio Globally
+- Build AI SaaS Products
+- Reach 1000+ GitHub Contributions
+- Contribute to Open Source Projects
 
 ---
 
-# 💡 Developer Philosophy
+# Developer Philosophy
 
 <div align="center">
 
@@ -304,19 +304,19 @@ Cloud            : APIs & Modern Services
 
 ---
 
-# 🔥 Fun Facts
+#  Fun Facts
 
-- 🤖 Passionate about Artificial Intelligence
-- 🚀 Love Building Business Automation Systems
-- 📱 Enjoy Creating Flutter Applications
-- 💻 Clean Code Enthusiast
-- 🌍 Dreaming Big with Daynix Studio
+-  Passionate about Artificial Intelligence
+-  Love Building Business Automation Systems
+-  Enjoy Creating Flutter Applications
+-  Clean Code Enthusiast
+-  Dreaming Big with Daynix Studio
 
 ---
 
-# ☕ Support My Work
+# Support My Work
 
-If you like my work, don't forget to ⭐ my repositories.
+If you like my work, don't forget to  my repositories.
 
 Your support motivates me to build more amazing projects.
 
@@ -324,11 +324,11 @@ Your support motivates me to build more amazing projects.
 
 <div align="center">
 
-## 🚀 Thanks For Visiting My Profile
+##  Thanks For Visiting My Profile
 
 ### Let's Build The Future With AI
 
-⭐ If you like my work, consider following my journey.
+ If you like my work, consider following my journey.
 
 </div>
 
@@ -338,7 +338,7 @@ Your support motivates me to build more amazing projects.
 
 <div align="center">
 
-| 💼 Domain | 🚀 Expertise |
+|  Domain |  Expertise |
 |------------|-------------|
 | Artificial Intelligence | ⭐⭐⭐⭐⭐ |
 | AI Automation | ⭐⭐⭐⭐⭐ |
@@ -353,7 +353,7 @@ Your support motivates me to build more amazing projects.
 
 ---
 
-# ⚙️ Tech Ecosystem
+#  Tech Ecosystem
 
 <p align="center">
 
@@ -363,7 +363,7 @@ Your support motivates me to build more amazing projects.
 
 ---
 
-# 🌍 Open Source Journey
+# Open Source Journey
 
 ```text
 2026 Roadmap
@@ -377,31 +377,31 @@ Your support motivates me to build more amazing projects.
 
 ---
 
-# 🚀 What I Can Build
+#  What I Can Build
 
-🤖 AI Agents
+AI Agents
 
-⚡ Workflow Automation
+Workflow Automation
 
-📱 Flutter Applications
+Flutter Applications
 
-🌐 Business Websites
+Business Websites
 
-🛒 SaaS Platforms
+SaaS Platforms
 
-📊 Dashboards
+Dashboards
 
-🔗 API Integrations
+API Integrations
 
-💬 AI Chatbots
+AI Chatbots
 
-☁ Cloud Integrations
+Cloud Integrations
 
-📈 CRM Automation
+CRM Automation
 
 ---
 
-# ❤️ Let's Connect & Build Together
+#  Let's Connect & Build Together
 
 <p align="center">
 
@@ -423,7 +423,7 @@ Your support motivates me to build more amazing projects.
 
 <div align="center">
 
-# 🚀 Thank You for Visiting!
+#  Thank You for Visiting!
 
 ### Building the Future with AI, Automation & Innovation.
 
