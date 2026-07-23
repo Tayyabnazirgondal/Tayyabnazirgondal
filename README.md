@@ -1,3 +1,12 @@
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=28&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=900&lines=AI+Automation+Engineer;Flutter+Developer;Python+Developer;Building+AI+Agents;Founder+of+Daynix+Studio" />
+</p>
+<h1 align="center">Hi 👋, I'm Tayyab Nazir</h1>
+
+<h3 align="center">
+AI Automation Engineer • Flutter Developer • Python Developer
+</h3>
+
 Hi I'm Tayyab Nazir
 
 AI Automation Engineer | Flutter Developer | Python Developer
