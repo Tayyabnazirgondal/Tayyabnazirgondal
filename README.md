@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="banner.png" alt="Tayyab Nazir Banner" width="100%">
+</p>
 <!-- ========================= -->
 <!--      PREMIUM HEADER       -->
 <!-- ========================= -->
